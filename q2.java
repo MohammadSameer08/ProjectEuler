@@ -1,5 +1,5 @@
 import java.util.*;
-public class ques2
+public class q2
 {
 public static int series(int n)
 {
