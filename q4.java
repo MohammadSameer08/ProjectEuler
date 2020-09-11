@@ -1,4 +1,3 @@
-import java .util.*;
 public class q4
 {
 	public static boolean ispalindrom(int n)
